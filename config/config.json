@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "thisisadityakumarkasaudhan",
+    "password": "Aditya,3",
+    "database": "thisisadityakumarkasaudhan",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "thisisadityakumarkasaudhan",
+    "password": "Aditya,3",
+    "database": "thisisadityakumarkasaudhan",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "thisisadityakumarkasaudhan",
+    "password": "Aditya,3",
+    "database": "thisisadityakumarkasaudhan",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
